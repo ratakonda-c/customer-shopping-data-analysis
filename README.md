@@ -47,4 +47,15 @@ This project focuses on analyzing customer shopping behavior across multiple sho
 - Improve payment options for better customer experience  
 
 ---
+##  Project Structure
+profit-analysis-project/
+│── data/
+│── notebooks/
+│── powerbi-dashboard/
+│── README.md
 
+---
+
+##  Author
+Ratakonda Chandana  
+🔗 GitHub: https://github.com/ratakonda-c
